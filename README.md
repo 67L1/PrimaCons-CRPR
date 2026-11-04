@@ -2,9 +2,7 @@
 
 Official code for **[Cross-Primitive Consistency in Jev](https://arxiv.org/abs/2610.38623)**.
 
-[![arXiv](https://img.shields.io/badge/arXiv-2610.38623-b31b1b.svg)](https://arxiv.org/abs/2610.38623)
-[![Dataset](https://img.shields.io/badge/Dataset-Hugging%20Face-FFD21E.svg)](https://huggingface.co/datasets/67L11/PrimaCon)
-[![Calibrators](https://img.shields.io/badge/Calibrators-Hugging%20Face-FFD21E.svg)](https://huggingface.co/67L11/CPRC)
+[Paper](https://arxiv.org/abs/2610.38623) | [Dataset](https://huggingface.co/datasets/67L11/PrimaCon) | [Calibrators](https://huggingface.co/67L11/CPRC)
 
 ## Overview
 

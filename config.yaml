@@ -1,0 +1,15 @@
+model_size: 4b
+feature_recipe: 4b
+paths:
+  dataset: data/primacon
+  backbone: models/JevK5
+  calibrator: models/calibrators/4b
+  output: outputs/4b
+  trained: outputs/4b/trained
+training:
+  source_axes: [D1, D2, D3]
+  pca_dim: 64
+  alpha: 1.4
+  gamma: -1.0
+  max_epochs: 10000
+  patience: 5

@@ -1,0 +1,8 @@
+torch==2.7.1
+numpy==2.2.6
+scikit-learn==1.7.2
+transformers==5.17.0
+PyYAML==6.0.3
+safetensors==0.8.0
+huggingface-hub==1.33.0
+jevk5 @ git+https://github.com/allebee/jevk5@v0.3.0
